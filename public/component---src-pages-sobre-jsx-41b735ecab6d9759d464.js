@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_garden=self.webpackChunkgatsby_garden||[]).push([[766],{6630:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var l=n(7294),a=n(7435);function u(){return l.createElement(a.Z,{title:"quem é miguelzinhe?"},l.createElement("div",{className:"flex"},l.createElement("h3",null,"alou."),l.createElement("br",null)))}}}]);
+//# sourceMappingURL=component---src-pages-sobre-jsx-41b735ecab6d9759d464.js.map
